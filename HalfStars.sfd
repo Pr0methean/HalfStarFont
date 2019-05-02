@@ -1,0 +1,211 @@
+SplineFontDB: 3.0
+FontName: StarsAndHalfStars
+FullName: StarsAndHalfStars
+FamilyName: StarsAndHalfStars
+Weight: Regular
+Copyright: Copyright 2019 Chris Hennick\n\nBased on Symbola 2.59-1 by George Douros, which is under the following licence:\n"Fonts are free for any use; they may be opened, edited,\n    modified, regenerated, packaged and redistributed."
+UComments: "2019-5-1: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 71 -1434578476 5021158]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1556761695
+ModificationTime: 1556762375
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+Encoding: UnicodeBmp
+Compacted: 1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 16 4
+BeginPrivate: 0
+EndPrivate
+BeginChars: 65536 6
+
+StartChar: uni2605
+Encoding: 9733 9733 0
+Width: 1602
+VWidth: 2048
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1506 829 m 1
+ 1085 521 l 1
+ 1270 -1 l 1
+ 801 325 l 1
+ 332 -1 l 1
+ 517 521 l 1
+ 96 829 l 1
+ 623 829 l 1
+ 801 1331 l 1
+ 979 829 l 1
+ 1506 829 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni2606
+Encoding: 9734 9734 1
+Width: 1602
+VWidth: 2048
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1506 829 m 1
+ 1085 521 l 1
+ 1270 -1 l 1
+ 801 325 l 1
+ 332 -1 l 1
+ 517 521 l 1
+ 96 829 l 1
+ 623 829 l 1
+ 801 1331 l 1
+ 979 829 l 1
+ 1506 829 l 1
+1200 729 m 1
+ 908 729 l 1
+ 801 1032 l 1
+ 694 729 l 1
+ 402 729 l 1
+ 636 558 l 1
+ 530 258 l 1
+ 801 447 l 1
+ 1072 258 l 1
+ 966 558 l 1
+ 1200 729 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni2BEA
+Encoding: 11242 11242 2
+Width: 1602
+VWidth: 2048
+Flags: W
+HStem: -1 21G<339.088 360.773 1241.23 1262.91> 729 100<979 1200>
+LayerCount: 2
+Fore
+SplineSet
+1506 829 m 1
+ 1085 521 l 1
+ 1270 -1 l 1
+ 801 325 l 1
+ 332 -1 l 1
+ 517 521 l 1
+ 96 829 l 1
+ 623 829 l 1
+ 801 1331 l 1
+ 979 829 l 1
+ 1506 829 l 1
+1200 729 m 1
+ 908 729 l 1
+ 801 1032 l 1
+ 801 447 l 1
+ 1072 258 l 1
+ 966 558 l 1
+ 1200 729 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni2BEB
+Encoding: 11243 11243 3
+Width: 1602
+VWidth: 2048
+Flags: HW
+HStem: -1 21G<1241.23 1262.91 339.088 360.773> 729 100<402 623>
+LayerCount: 2
+Fore
+SplineSet
+96 829 m 1
+ 623 829 l 1
+ 801 1331 l 1
+ 979 829 l 1
+ 1506 829 l 1
+ 1085 521 l 1
+ 1270 -1 l 1
+ 801 325 l 1
+ 332 -1 l 1
+ 517 521 l 1
+ 96 829 l 1
+402 729 m 1
+ 636 558 l 1
+ 530 258 l 1
+ 801 447 l 1
+ 801 1032 l 1
+ 694 729 l 1
+ 402 729 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni2BE8
+Encoding: 11240 11240 4
+Width: 1602
+VWidth: 2048
+Flags: W
+HStem: -1 21G<339.088 360.773>
+LayerCount: 2
+Fore
+SplineSet
+801 325 m 5
+ 332 -1 l 1
+ 517 521 l 1
+ 96 829 l 1
+ 623 829 l 1
+ 801 1331 l 5
+ 801 325 l 5
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni2BE9
+Encoding: 11241 11241 5
+Width: 1602
+VWidth: 2048
+Flags: WO
+HStem: -1 21G<1241.23 1262.91>
+LayerCount: 2
+Fore
+SplineSet
+1506 829 m 1
+ 1085 521 l 1
+ 1270 -1 l 1
+ 801 325 l 1
+ 801 1331 l 1
+ 979 829 l 1
+ 1506 829 l 1
+EndSplineSet
+Validated: 1
+EndChar
+EndChars
+EndSplineFont
